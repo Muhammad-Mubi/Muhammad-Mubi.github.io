@@ -214,6 +214,10 @@ img{
   width: 100%;
 }
 
+.my-image{
+  height: 80%;
+}
+
 footer{
   margin: 5rem;
   text-align: center;
